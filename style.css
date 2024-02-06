@@ -72,5 +72,8 @@ p {
 
 }
 audio{
-  margin-top: 50rem;
+position: absolute;
+  left: 40rem;
+  top: 50rem;
+  z-index: -1;
 }
